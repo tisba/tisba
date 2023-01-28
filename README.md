@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<link href="https://ruby.social/@tisba" rel="me">
+<a rel="nofollow me" class="Link--primary" href="https://ruby.social/@tisba">@ruby.social/@tisba</a>
